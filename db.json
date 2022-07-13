@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "GoodBye"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "person": {
+    "me": "Jib"
+  }
+}
