@@ -1,0 +1,42 @@
+{
+"users": [
+  {
+    "uid": 1,
+    "username": "JibraeelAbdel",
+    "email": "jibraeelabdel@gmail.com",
+    "password": "supersecret1",
+  },
+  {
+    "uid": 2,
+    "username": "JonnySmith",
+    "email": "jsmith@gmail.com",
+    "password": "pass123",
+  }
+  {
+    "uid": 3,
+    "username": "randomUser",
+    "email": "rUser@yahoo.com",
+    "password": "unknownUser",
+  }
+ ],
+
+"locations": [
+  {
+    "uid": 1,
+    "name": "Some Location",
+    "longitude": 1,
+    "latitude": 2,
+    "status": True,
+    "reviews": [
+      {
+        "uid": 1,
+        "username": "My User",
+        "review": "This place is cool!",
+        "rating": 9
+      }
+    ]
+  }
+]
+
+
+}
